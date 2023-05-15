@@ -1,0 +1,22 @@
+      #container {
+        width: 1000px;
+        margin: auto;
+        margin-top: 25%;
+        text-align: center;
+      }
+
+      #search-bar {
+        width: 70%;
+        height: 50px;
+        border: 1px solid #000;
+        font-size: 20px;
+        padding: 10px;
+      }
+
+      #search-button {
+        width: 30%;
+        height: 50px;
+        background-color: #4285f4;
+        color: #fff;
+        font-size: 20px;
+      }
