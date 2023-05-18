@@ -4,7 +4,8 @@
 
 # My portfolio
 
-Petit site en HTML/CSS pour parfaire mes faible connaissance avec ces languages.
+Reproduction de la Googe Search Bar
+
 
 ## 🛠 Skills Use
 HTML, CSS
